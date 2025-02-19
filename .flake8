@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 120
+ignore = E1, E302, E2, W2, F401
+exclude = .git,__pycache__,docs/source/conf.py,old,build,dist,bin,include,lib,lib64,data
